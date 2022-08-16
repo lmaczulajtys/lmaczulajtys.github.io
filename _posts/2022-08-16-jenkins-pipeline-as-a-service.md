@@ -1,6 +1,6 @@
 ---
 title: Jenkins pipeline as a service
-date: 2022-08-16 11:00:00 +0100
+date: 2022-08-16 09:00:00 +0100
 categories: [DevOps]
 tags: [cicd, jenkins, devops]
 description: How to write reusable Jenkins piplelines and automatically use them in hundreds of projects using Jenkins Shared Libraries and plugins.
